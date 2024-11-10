@@ -28,7 +28,7 @@ pip install pyperclip
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/password-generator.git
+    git clone https://github.com/am1rreza/password-generator.git
     ```
 
 2. Navigate to the project directory:
